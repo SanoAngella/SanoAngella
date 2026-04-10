@@ -46,12 +46,12 @@ Passionate about building **secure, user‑friendly, and impactful digital solut
 
 ---
 
-## 📂 Featured Interests & Projects
+##  Featured Interests & Projects
 
-* 🔒 **Secure Web Applications**
-* 🌐 **Full‑Stack Projects**
-* 🎨 **UI/UX Case Studies**
-* 🛡️ **Cybersecurity Labs & Practice**
+* **Secure Web Applications**
+* **Full‑Stack Projects**
+* **UI/UX Case Studies**
+* **Cybersecurity Labs & Practice**
 
 *(Projects coming soon — stay tuned!)*
 
