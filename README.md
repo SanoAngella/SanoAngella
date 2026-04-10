@@ -22,7 +22,7 @@ Passionate about building **secure, user‑friendly, and impactful digital solut
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### 💻 Programming & Web
 
