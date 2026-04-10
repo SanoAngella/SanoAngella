@@ -15,10 +15,10 @@
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **Full‑Stack Web Development** and **Cybersecurity fundamentals**
-* 🛡️ Interested in **ethical hacking, web security, and secure system design**
-* 🎯 Goal: Become a **security‑aware full‑stack engineer**
-* 📚 Always improving my **coding and problem‑solving skills**
+* Currently learning **Full‑Stack Web Development** and **Cybersecurity fundamentals**
+* Interested in **ethical hacking, web security, and secure system design**
+* Goal: Become a **security‑aware full‑stack engineer**
+* Always improving my **coding and problem‑solving skills**
 
 ---
 
