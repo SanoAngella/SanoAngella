@@ -24,7 +24,7 @@ Passionate about building **secure, user‑friendly, and impactful digital solut
 
 ## Tech Stack
 
-### 💻 Programming & Web
+### Programming & Web
 
 * **Frontend:** HTML, CSS, JavaScript
 * **Backend:** Node.js (learning), PHP (basics)
