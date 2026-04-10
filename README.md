@@ -6,9 +6,9 @@
 
 ---
 
-## 👋 Hi there, I'm **Angella **
+##  Hi there, I'm **Angella **
 
-💻 **Aspiring Full‑Stack Developer** | 🎨 **Backend developer** | 🔐 **Cybersecurity Enthusiast**
+ **Aspiring Full‑Stack Developer** | **Backend developer** | **Cybersecurity Enthusiast**
 🌍 Passionate about building **secure, user‑friendly, and impactful digital solutions**.
 
 ---
