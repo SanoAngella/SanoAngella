@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 * Currently learning **Full‑Stack Web Development** and **Cybersecurity fundamentals**
 * Interested in **ethical hacking, web security, and secure system design**
@@ -31,13 +31,13 @@
 * **Databases:** MySQL (basics), Mongodb
 * **Version Control:** Git & GitHub
 
-### 🎨 UI / UX
+### I / UX
 
 * Figma
 * Wireframing & Prototyping
 
 
-### 🔐 Cybersecurity
+### Cybersecurity
 
 * Linux (Kali Linux basics)
 * Networking fundamentals
@@ -57,7 +57,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SanoAngella&show_icons=true&theme=tokyonight" />
@@ -69,9 +69,9 @@
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
-* 💼 GitHub: [https://github.com/SanoAngella](https://github.com/SanoAngella)
+* GitHub: [https://github.com/SanoAngella](https://github.com/SanoAngella)
 
   
 
